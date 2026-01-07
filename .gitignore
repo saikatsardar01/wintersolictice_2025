@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# --- Environment & Secrets ---
+**/.env
+**/.env.*
+**/google-service-key.json
+backend/google-service-key.json
